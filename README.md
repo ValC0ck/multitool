@@ -5,3 +5,6 @@ You can:
 
 planned to add:
 physics, math, OS, time calculator, 
+
+How to run:
+python main.py
